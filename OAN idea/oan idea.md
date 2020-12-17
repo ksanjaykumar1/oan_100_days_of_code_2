@@ -16,7 +16,7 @@ To get around this many retailers  are creating  their own website , but this cr
 5. Reaching wider audience/ Scalability
 
 ### Solution :
-1. We can create a contract where if customer submits a  review , some token is awarded to that customer.
+1. We can create a contract that checks whether the customer has submited a review then customer is awarded tokens.
 2. Retailers can put their product / inventory bills on blockchain so that customers can verify it.
 3. Retailer can maintain database of customers with customer’s consent, and retailers can create customer specific deals like birthday special offer etc.
     Retailers create their own crypto tokens  and then award those for buying something, so that customers can visit again to buy different objects using earlier tokens.
